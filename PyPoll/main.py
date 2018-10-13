@@ -2,7 +2,7 @@ import os
 import csv
 
 #Create path to csv file
-csvpath=os.path.join('..','PyPoll','election_data.csv')
+csvpath=os.path.join('Resources','election_data.csv')
 
 #Creates dictionary to be used for candidate name and vote count
 poll = {}
